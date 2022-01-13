@@ -4,7 +4,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/klamkiewicz?label=%40klamkiewicz&style=social)](https://twitter.com/klamkiewicz)
 
 # Thogotovirus Host adaptation experiments
-## Supplement scripts for Fuchs et al. (2020), "TITLE", "Journal", doi: 
+## Supplement scripts for Fuchs *et al.* (2022), "Comparative study of ten thogotovirus isolates and their distinct *in vivo* characteristics", [Journal of Virology](https://doi.org/10.1128/JVI.01556-21)
 
 
 In order to use our scripts, transform the .vcf files created by [LoFreq](https://csb5.github.io/lofreq/) with the following `bash/awk` loop.
